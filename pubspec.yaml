@@ -1,8 +1,7 @@
 name: solarized_flutter
 description: A new Flutter package project.
 version: 0.0.1
-author: M J Stanway
-homepage: otter.works
+homepage: https://otter.works
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
